@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagivab
-- 🌱 I’m currently learning MERN stack
+- 🌱 Full-Stack Engineer
 - 📫 How to reach me: sagivab@gmail.com
 
 <!---
