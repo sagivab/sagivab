@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagivab
+- 👋 Hi, my name is Sagiv Abdush
 - 🌱 Full-Stack Engineer
 - 📫 How to reach me: sagivab@gmail.com
 
